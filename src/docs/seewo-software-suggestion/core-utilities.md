@@ -29,7 +29,7 @@ tag:
 一般情况Edge就足够了。但如果你不喜欢edge的复杂功能，或者你们班已经转Linux平台了，那么我推荐以下浏览器：
 
 ·Chrome：简洁易用。网址：[https://google.cn/chrome/](https://google.cn/chrome/)
-::: important
+::: important 注意
  chrome的官网其实是可以打开的，就是上面提供的网址。现在网上有很多假冒Google Chrome的网站，请注意甄别。
 :::
 
