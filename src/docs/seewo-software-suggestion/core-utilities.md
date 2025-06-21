@@ -29,9 +29,11 @@ tag:
 一般情况Edge就足够了。但如果你不喜欢edge的复杂功能，或者你们班已经转Linux平台了，那么我推荐以下浏览器：
 
 ·Chrome：简洁易用。网址：[https://google.cn/chrome/](https://google.cn/chrome/)
->[!important]
+::: important
  chrome的官网其实是可以打开的，就是上面提供的网址。现在网上有很多假冒Google Chrome的网站，请注意甄别。
+:::
+
 .Firefox:基于Gecko内核的浏览器，其它的就不过多赘述了。
     下载方式：1.在线安装包:[https://www.mozilla.org/zh-CN/firefox/all/](https://www.mozilla.org/zh-CN/firefox/all/)
     
-    2.离线安装包：[https://ftp.mozilla.org/pub/firefox/releases/](https://ftp.mozilla.org/pub/firefox/releases/)
+    2.离线安装包：[https://ftp.mozilla.org/pub/firefox/releases](https://ftp.mozilla.org/pub/firefox/releases)
