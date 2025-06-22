@@ -28,12 +28,21 @@ tag:
 
 一般情况Edge就足够了。但如果你不喜欢edge的复杂功能，或者你们班已经转Linux平台了，那么我推荐以下浏览器：
 
-·Chrome：简洁易用。网址：[https://google.cn/chrome/](https://google.cn/chrome/)
+·Chrome：简洁易用。下载链接：[https://google.cn/chrome/](https://google.cn/chrome/)
 ::: important 注意
  chrome的官网其实是可以打开的，就是上面提供的网址。现在网上有很多假冒Google Chrome的网站，请注意甄别。
 :::
 
-.Firefox:基于Gecko内核的浏览器，其它的就不过多赘述了。
+·Firefox:基于Gecko内核的浏览器，其它的就不过多赘述了。
     下载方式：1.在线安装包:[https://www.mozilla.org/zh-CN/firefox/all/](https://www.mozilla.org/zh-CN/firefox/all/)
     
-    2.离线安装包：[https://ftp.mozilla.org/pub/firefox/releases](https://ftp.mozilla.org/pub/firefox/releases)
+    2.离线安装包:[https://ftp.mozilla.org/pub/firefox/releases/](https://ftp.mozilla.org/pub/firefox/releases/)
+
+·Yandex：俄罗斯的一个浏览器，用起来体验不错，就是中文翻译有点奇怪（比如它把“打印”翻译成“印刷业”，不知道这个bug现在修复了没有）
+    下载链接：[https://browser.yandex.com/](https://browser.yandex.com/)
+
+## Github加速工具：
+
+众所周知，GitHub在国内经常打不开，而大屏上的很多教学辅助软件（比如Classisland，ica）都依赖GitHub更新。虽然我么们可以通过“下海”的方式，但是在班里安装VPN软件并不是很合适。
+
+[Watt Tookit（点击跳转GitHub仓库）](https://github.com/BeyondDimension/SteamTools)是一个不错的选择。虽然它的开发初衷是针对steam的，但是3.0版本后我们可以删除其他功能，只保留网络加速功能。
