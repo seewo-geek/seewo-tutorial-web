@@ -20,3 +20,5 @@ InkCanvasForClass 同样也是一款不错的工具，提供了类似希沃白�
 ## PDF 阅读器
 
 推荐使用 Adobe Acrobat Reader，功能比 Word 和浏览器更丰富全面，且免费无捆绑。
+
+但如果你的老师比较~~事B~~对PDF批注比较严苛，希望能让批注跟着PDF翻页，那就用edge吧
